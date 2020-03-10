@@ -1,0 +1,39 @@
+* body{
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+    border: 5px solid grey;
+    justify-content: space-around;
+  }
+  
+  .spman{
+    padding: 55px;
+    margin-bottom: 55px;
+    display: flex;
+    border: 2px solid black;
+    background-repeat: no-repeat;
+  }
+  
+  .wondwmn{
+    padding: 55px;
+    margin-bottom: 55px;
+    display: flex;
+    border: 2px solid yellow;
+    background-repeat: no-repeat;
+  }
+  
+  .captamrca{
+    padding: 55px;
+    margin-bottom: 55px;
+    display: flex;
+    border: 2px solid green;
+    background-repeat: no-repeat;
+  }
+  
+  .gemwmn{
+    padding: 55px;
+    margin-bottom: 55px;
+    display: flex;
+    border: 2px solid orangered;
+    background-repeat: no-repeat;
+  }
